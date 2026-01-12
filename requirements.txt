@@ -1,1 +1,17 @@
+# Core data & utilities
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+
+# Deep learning
+tensorflow>=2.10
+torch>=2.2.0
+torchvision
+torchaudio
+
+# PyTorch Geometric (installed separately with wheels)
+torch-geometric
 
